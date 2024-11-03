@@ -1,4 +1,4 @@
-package br.com.fiap;
+package br.com.fiap.functional_interface;
 
 import java.util.List;
 import java.util.Random;
