@@ -1,4 +1,4 @@
-package br.com.fiap.list.pesquisa;
+package br.com.fiap.set.pesquisa;
 
 import java.util.Objects;
 

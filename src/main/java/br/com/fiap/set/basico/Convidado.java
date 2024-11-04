@@ -1,4 +1,4 @@
-package br.com.fiap.set;
+package br.com.fiap.set.basico;
 
 import java.util.Objects;
 
