@@ -47,7 +47,7 @@ public class AgendaContatos {
     public static void main(String[] args) {
         AgendaContatos agendaContatos = new AgendaContatos();
 
-        // Adicionar contatos
+
         agendaContatos.adicionarContato("Camila", 123456);
         agendaContatos.adicionarContato("João", 5665);
         agendaContatos.adicionarContato("Carlos", 1111111);
@@ -57,11 +57,11 @@ public class AgendaContatos {
 
         agendaContatos.exibirContatos();
 
-        // Remover um contato
+
         agendaContatos.removerContato("Maria");
         agendaContatos.exibirContatos();
 
-        // Pesquisar número por nome
+
         String nomePesquisa = "João";
         Integer numeroPesquisa = agendaContatos.pesquisarPorNome("João");
         System.out.println("Número de telefone de " + nomePesquisa + ": " + numeroPesquisa);
